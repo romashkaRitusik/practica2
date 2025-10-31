@@ -9,6 +9,7 @@ color_name_label = tk.Label(window, text="", font=("Arial", 14))
 color_name_label.pack(pady=5)
 
 
+
 color_code_entry = tk.Entry(
     window,
     width=20,
